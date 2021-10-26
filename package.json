@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Samualdi/be-nc-messenger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^27.3.1"
+    "jest": "^27.3.1",
+    "socket.io": "^4.3.1"
   }
 }
